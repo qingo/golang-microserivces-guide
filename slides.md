@@ -136,7 +136,7 @@ Go微服务技术框架选型
 - **使用grpc-gateway** 提供 HTTP API
 - **使用[Standard Go Project Layout](https://github.com/golang-standards/project-layout/blob/master/README_zh.md)** 作为项目布局
 - **使用DDD的模式** 组织业务模块
-- 应用代码中不包含任何服务治理相关功能
+- 应用层代码中不包含任何服务治理相关功能
 - 使用Nomad, Consul Connect, Vault作为基础设施集成
 
 <br>
