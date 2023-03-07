@@ -30,9 +30,6 @@ Go微服务技术框架选型
 
 ---
 
-transition: fade-out
----
-
 <img src="/microservice-pattern-language.jpg" class="h-full mx-auto" />
 
 ---
