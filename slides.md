@@ -167,7 +167,7 @@ Go微服务技术框架选型
 
 # DDD 组织业务模块
 
-<img src="/ddd.jpg" class="h-full mx-auto" />
+<img src="/ddd.jpg" class="h-full pb-20 mx-auto" />
 
 ---
 
