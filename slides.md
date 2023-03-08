@@ -128,7 +128,13 @@ Go微服务技术框架选型
 
 ---
 
-# 服务网格
+# 服务网格（Service Mesh）市面案例
+
+<img src="/exa.jpg" class="h-full mx-auto" />
+
+---
+
+# 服务网格（Service Mesh）
 参考项目 [go-coffee](https://github.com/thangchung/go-coffeeshop)
 
 ### 特点
@@ -147,6 +153,11 @@ Go微服务技术框架选型
 
 ---
 
+<img src="/coffeeshop_hashicorp.svg" class="h-full mx-auto" />
+
+---
+
+
 # Standard Go Project Layout
 
 <img src="/layout.jpg" class="h-full mx-auto" />
@@ -163,10 +174,6 @@ Go微服务技术框架选型
 # Nomad, Consul Connect, Vault作为基础设施集成
 
 <img src="/job.jpg" class="h-full mx-auto" />
-
----
-
-<img src="/coffeeshop_hashicorp.svg" class="h-full mx-auto" />
 
 
 
