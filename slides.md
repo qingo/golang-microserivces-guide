@@ -147,6 +147,27 @@ Go微服务技术框架选型
 
 ---
 
+# Standard Go Project Layout
+
+<img src="/layout.jpg" class="h-full mx-auto" />
+
+
+---
+
+# DDD 组织业务模块
+
+<img src="/ddd.jpg" class="h-full mx-auto" />
+
+---
+
+# Nomad, Consul Connect, Vault作为基础设施集成
+
+<img src="/job.jpg" class="h-full mx-auto" />
+
+---
+
 <img src="/coffeeshop_hashicorp.svg" class="h-full mx-auto" />
+
+
 
 
